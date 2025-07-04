@@ -34,7 +34,7 @@ I'm a Software Engineer with over 15 years of experience in building information
 ## 📫 Let's Connect
 
 - ✉️ Email: mr.nurihsan@gmail.com 
-- 🔗 LinkedIn: [linkedin.com/in/nurihsan](www.linkedin.com/in/nur-ihsan-5a349015)
+- 🔗 LinkedIn: [linkedin.com/in/nur-ihsan-5a349015](www.linkedin.com/in/nur-ihsan-5a349015)
 ---
 
 > _“Code is not just logic, it's a bridge between people and ideas.”_
