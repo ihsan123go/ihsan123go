@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Nur Ihsan 👋
 
-<!--
-**ihsan123go/ihsan123go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with over 15 years of experience in building information systems, business applications, and database-driven solutions. My work focuses on Windows-based and web-based software for healthcare, retail, business and education sectors.
 
-Here are some ideas to get you started:
+## 🛠 Core Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Programming: C#, VB.NET, PHP (CodeIgniter), JavaScript
+- 🗃 Databases: MS SQL Server (Query, View, Stored Procedure), MySQL
+- 🔌 API Integration: RESTful APIs
+- 🧠 Database Design & Management
+- 🧾 Report Tools: Crystal Report, RDLC Report
+- 🧑‍🏫 Presentation & Communication Skills
+- 💻 Windows Application Development
+- 🎓 Computer Science Background
+
+## 🚀 Featured Projects
+
+- **Clinic Information System** – VB.NET + SQL Server + Stored Procedure + SatuSehat API
+- **Retail Inventory System** – C# Windows Forms + MS SQL Server
+- **Physiotherapy Clinic System** – PHP (CodeIgniter) + MySQL
+- **Billing System for PDAM (Water Company)** – PHP + MySQL
+- **Education Management System** – PHP + MySQL
+- **HR & Payroll System** – Visual Basic 6.0 + MS SQL Server
+- **Project Management System** – PHP (Prado Framework) + MySQL
+- **Court Information System** – PHP (Prado Framework) + MySQL
+- **World Bank Assistance Monitoring System** – Visual Basic 6 + SQL Server
+
+## 🌱 Currently Exploring
+
+- ASP.NET Core for modern web development
+- GitHub Actions & DevOps for CI/CD
+- REST API best practices
+
+## 📫 Let's Connect
+
+- ✉️ Email: mr.nurihsan@gmail.com 
+- 🔗 LinkedIn: [linkedin.com/in/nurihsan](www.linkedin.com/in/nur-ihsan-5a349015)
+---
+
+> _“Code is not just logic, it's a bridge between people and ideas.”_
+
+
